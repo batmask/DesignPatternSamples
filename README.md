@@ -1,0 +1,1 @@
+While Studing Design Pattern, I made some sample codes.
